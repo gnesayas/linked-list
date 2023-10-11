@@ -1,1 +1,1 @@
-# linked-list
+This mini-project is to help practice with linked lists.
